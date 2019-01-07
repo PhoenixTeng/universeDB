@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/PhoenixTeng/universe1/zhouyi"
+	"github.com/PhoenixTeng/zhouyi"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/nosixtools/solarlunar"
